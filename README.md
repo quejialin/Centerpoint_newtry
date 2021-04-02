@@ -1,3 +1,2 @@
-# hello_world
-just for fun
-How long will it take me to become a great coder?
+# Center Point
+First try to build a model.
